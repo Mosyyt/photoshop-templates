@@ -1,0 +1,8 @@
+# OS-Dateien
+*.DS_Store
+Thumbs.db
+desktop.ini
+
+# Adobe Temp-Dateien
+*~
+*.tmp
